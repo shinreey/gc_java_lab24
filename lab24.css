@@ -1,0 +1,5 @@
+body {
+  background-image: url("3rdfloor.jpg") no-repeat 50% 50% fixed;
+  background-size: cover;
+  background-attachment: scroll;
+}
