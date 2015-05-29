@@ -6,23 +6,30 @@ body {
   background-position: 50% 10%;
 }
 
-p {
-  font-family: "Open Sans";
-  font-size: 30px;
-  text-align: center;
-  color: #F16839; 
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  right: 50%;
-  bottom: 50%;
-}
-
-h1 {
+#heading {
   font-family: "Brandon Grotesque", Black; 
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   color: #FFFFFF;
 }
+
+h2 {
+  color: #1EA8B4;
+  top: 20%;
+  bottom: 80%;
+}
+
+#personal {
+  font-family: "Open Sans";
+  font-size: 35px;
+  text-align: center;
+  color: #F16839; 
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  right: 30%;
+  bottom: 60%;
+}
+
 
 
