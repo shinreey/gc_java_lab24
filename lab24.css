@@ -19,7 +19,7 @@ h2 {
   bottom: 80%;
 }
 
-#personal {
+.pure-button {
   font-family: "Open Sans";
   font-size: 35px;
   text-align: center;
@@ -30,6 +30,7 @@ h2 {
   right: 30%;
   bottom: 60%;
 }
+
 
 
 
